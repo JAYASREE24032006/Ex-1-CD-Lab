@@ -77,4 +77,5 @@ int main()
 
 
 ## RESULT :
+
   The program to implement a symbol table is executed and the output is verified.
